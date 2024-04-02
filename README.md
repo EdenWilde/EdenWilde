@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **UI/UX Projects**
 
-- 🤝 I’m looking for help with **product managemnt**
+- 🤝 I’m looking for help with **product management**
 
 - 💬 Ask me about **what I'm working towards**
 
