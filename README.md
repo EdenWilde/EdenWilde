@@ -1,6 +1,6 @@
 ![MasterHead](https://docs-assets.developer.apple.com/published/52cb39d49509c7009221473e8523c250/AppDev_course-hero.png)
 <h1 align="center">Hi 👋, I'm Eden Wilde</h1>
-<h3 align="center">A self taught coder always looking to expand my horizon</h3>
+<h3 align="center">A self taught coder always looking to expand my horizons</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edenwilde&label=Profile%20views&color=0e75b6&style=flat" alt="edenwilde" /> </p>
 
