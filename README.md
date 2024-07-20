@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Anthro Store](https://anthro-store.com), a clothing brand created by me
 
-- 🌱 I’m currently learning **Product management foundations**
+- 🌱 I’m currently learning **Data Analyst foundations**
 
-- 👯 I’m looking to collaborate on **UI/UX Projects**
+- 👯 I’m looking to collaborate on **Graphic Design Projects**
 
-- 🤝 I’m looking for help with **Product management**
+- 🤝 I’m looking for help becoming a **Data Center Specialist**
 
 - 💬 Ask me about **what I'm working towards**
 
